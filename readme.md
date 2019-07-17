@@ -40,7 +40,7 @@ For comparison, you'll end up with something like this:
 
 Save your `vvv-custom.yml`
 
-### Step 2: Re-Provision your VVVV
+### Step 2: Re-Provision your VVV
 
 ``` bash
 vagrant provision
